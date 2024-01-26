@@ -4,5 +4,5 @@ WEATHER_DATA = {
     "New York": {"temperature": "22°C", "condition": "Sunny"},
     "Tokyo": {"temperature": "20°C", "condition": "Rainy"},
     "Shiraz": {"temperature": "20°C", "condition": "Rainy"},
-    "Paris": {"temperature": "15°C", "condition": "Sunny"},
+    "Paris": {"temperature": "15°C", "condition": "Rainy"},
 }
