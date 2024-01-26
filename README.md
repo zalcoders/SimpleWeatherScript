@@ -1,4 +1,4 @@
-# Welcome to ZalCoders!
+# Welcome to ZalCoders
 
 This is ZalCoders
 
