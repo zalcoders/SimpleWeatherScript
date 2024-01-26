@@ -1,6 +1,6 @@
-# Welcome to Zal Coders
+# Welcome to ZalCoders
 
-This is ZalCoders
+This is ZalCoders. I'm Bahman
 
 
 # Files
