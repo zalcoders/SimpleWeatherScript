@@ -1,6 +1,6 @@
 from data import WEATHER_DATA
 
-def get_weather(city, show_recomendations):
+def get_weather_info(city, show_recomendations):
     """Retrieve weather data for a given city."""
     data = WEATHER_DATA.get(city.title(), "No data available for this city.")
     if show_recomendations:
@@ -29,7 +29,7 @@ def main():
         show_recomendations = True
     else:
         show_recomendations = False
-    temp, condition, final_recomendation = get_weather(city, show_recomendations)
+    temp, condition, final_recomendation = get_weather_info(city, show_recomendations)
     present_info(city, temp, condition, final_recomendation)
     
 
