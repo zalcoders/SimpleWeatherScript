@@ -1,6 +1,6 @@
-# Welcome to ZalCoders
+# Welcome to ZalCoders.Com
 
-This is ZalCoders. I'm Bahman
+This is ZalCoders. This is Bahman Shadmehr
 
 
 # Files
